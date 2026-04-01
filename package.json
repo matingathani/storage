@@ -35,7 +35,7 @@
     "publint": "0.3.18",
     "ts-jest": "29.4.6",
     "turbo": "2.9.3",
-    "typescript": "5.9.3"
+    "typescript": "6.0.2"
   },
   "packageManager": "pnpm@10.28.2",
   "engines": {
